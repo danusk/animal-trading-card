@@ -1,0 +1,48 @@
+/* add your CSS here */
+.card-body {
+	border: solid 2px white;
+	background: #3F51B5;
+	box-shadow: 5px 5px 1px #F0F0F0;
+	width: 300px;
+	border-radius: 10px;
+	padding: 0px 20px 20px 20px
+}
+
+.animal-name {
+	border: solid 2px #7986C;
+	border-radius: 10px;
+	background: #7986CB;
+	font-family: sans-serif;
+	text-align: center;
+	color: #E8EAF6;
+	padding: 5px 0px 5px 0px;
+}
+
+.card-info {
+	border: 2px solid #7986CB;
+	background: #7986CB;
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #E8EAF6;
+	border-radius: 10px;
+	padding: 0px 10px 0px 10px
+}
+
+img {
+	border: 1px solid white;
+	border-radius: 20px;
+	margin-bottom: 10px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+.entry {
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+}
